@@ -10,7 +10,7 @@ A couple visuals are quickly discussed below:
 
 2. Diff_Eq: Particles spiral out from the center of the screen. The color and number of the particles vary based on the bass.
 
-3. Demon_Trap: When the bass hits, spooky and evocative gifs play.
+3. Demon_Trap: Spooky and evocative gifs are triggered by bass patterns.
 
 4. Fractal_Squares: Experiments with Processing's 3D libraries.
 
