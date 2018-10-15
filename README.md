@@ -1,4 +1,4 @@
-# MusicVisWetherbeeJha
+# Luke and Rohan's Music Visuals
 
 This project was inspired by seeing lots of lots of uninspiring music visuals. We found that many visuals were either preprogrammed - which is expensive and limits the extent to which a set can change - or were static and didn't respond to the music - which isn't very fun.
 
